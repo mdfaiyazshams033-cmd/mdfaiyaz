@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 About Me
-I am a Cyber Forensics postgraduate specializing in **Artificial Intelligence for Digital Evidence Analysis**.
+I am a Cyber Forensics postgraduate specializing in **M.Sc. Cyber Forensics**.
 
 I design AI systems with a **forensic mindset** — ensuring every model is:
 ✔ Explainable  
